@@ -2,7 +2,9 @@
 
 Albert is a fast and flexible keyboard launcher for Linux, similar to other apps like Launchy, Spotlight on OSX, etc.
 
-[[https://raw.githubusercontent.com/kvnxiao/ayume/master/albert/ayume-albert.png]]
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kvnxiao/ayume/master/albert/ayume-albert.png">
+</p>
 
 ## Install Instructions
 
