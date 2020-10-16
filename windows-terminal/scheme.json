@@ -1,0 +1,23 @@
+{
+    "name": "Ayume",
+    "cursorColor": "#eceadd",
+    "selectionBackground": "#eceadd",
+    "background": "#1f2430",
+    "foreground": "#d0cec3",
+    "black": "#111418",
+    "red": "#fc1827",
+    "green": "#75a805",
+    "yellow": "#fecd6d",
+    "blue": "#42a4e0",
+    "purple": "#9161c0",
+    "cyan": "#41b487",
+    "white": "#607387",
+    "brightBlack": "#383c44",
+    "brightRed": "#ea5965",
+    "brightGreen": "#ade46b",
+    "brightYellow": "#ffec88",
+    "brightBlue": "#4ec5e0",
+    "brightPurple": "#c9aeff",
+    "brightCyan": "#86e2bf",
+    "brightWhite": "#ffffff"
+}
